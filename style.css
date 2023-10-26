@@ -1,0 +1,56 @@
+body {
+  background-color: #f5f5f5;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+}
+
+div#header {
+  background-color: chocolate;
+  border-radius: 6px;
+  padding: 20px;
+  margin: 60px 0;
+  display: inline-block;
+  text-align: center;
+}
+
+.btn {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 1.5;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+a {
+  text-decoration: none;
+  color: #212529;
+}
+
+ol li {
+  list-style: none;
+  display: inline-block;
+  background-color: blanchedalmond;
+  border-radius: 6px;
+  padding: 20px;
+  margin-left: 20px;
+}
+ol li:first-child {
+  margin-left: 0;
+}
+
+li p {
+  font-size: 16px;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 1.5;
+  color: #212529;
+}
