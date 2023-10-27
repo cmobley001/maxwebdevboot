@@ -3,6 +3,7 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+/* auto align content center */
 main {
   padding: 20px;
   margin: 0 auto;
